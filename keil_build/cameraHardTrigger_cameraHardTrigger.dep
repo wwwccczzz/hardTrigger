@@ -1,0 +1,18 @@
+Dependencies for Project 'cameraHardTrigger', Target 'cameraHardTrigger': (DO NOT MODIFY !)
+F (.\src\main.c)(0x6AAC942E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\include -I .\cmsis-I.\RTE\_cameraHardTrigger-IE:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.4.0\Device\Include-IE:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DSTM32F10X_HD -DSTM32F10X_HD-o .\keil_build\main.o --omf_browse .\keil_build\main.crf --depend .\keil_build\main.d)
+I (.\include\stm32f10x.h)(0x61AD795E)
+I (.\cmsis\core_cm3.h)(0x5A8E1FE2)
+I (E:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (.\cmsis\cmsis_version.h)(0x5A5595E2)
+I (.\cmsis\cmsis_compiler.h)(0x5A8E1FE2)
+I (.\cmsis\cmsis_armcc.h)(0x5A8E1FE2)
+I (.\include\system_stm32f10x.h)(0x61AD795E)
+F (.\src\system_stm32f10x.c)(0x61AD795E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\include -I .\cmsis-I.\RTE\_cameraHardTrigger-IE:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.4.0\Device\Include-IE:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DSTM32F10X_HD -DSTM32F10X_HD-o .\keil_build\system_stm32f10x.o --omf_browse .\keil_build\system_stm32f10x.crf --depend .\keil_build\system_stm32f10x.d)
+I (.\include\stm32f10x.h)(0x61AD795E)
+I (.\cmsis\core_cm3.h)(0x5A8E1FE2)
+I (E:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (.\cmsis\cmsis_version.h)(0x5A5595E2)
+I (.\cmsis\cmsis_compiler.h)(0x5A8E1FE2)
+I (.\cmsis\cmsis_armcc.h)(0x5A8E1FE2)
+I (.\include\system_stm32f10x.h)(0x61AD795E)
+F (.\startup\startup_stm32f10x_hd.s)(0x61AD795E)(--cpu Cortex-M3 -g --apcs=interwork -I .\include -I .\cmsis-I.\RTE\_cameraHardTrigger-IE:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.4.0\Device\Include-IE:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 525" --pd "STM32F10X_HD SETA 1"--list .\keil_build\startup_stm32f10x_hd.lst --xref -o .\keil_build\startup_stm32f10x_hd.o --depend .\keil_build\startup_stm32f10x_hd.d)
